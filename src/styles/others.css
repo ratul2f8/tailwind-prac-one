@@ -1,0 +1,50 @@
+.welcome {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #30cfd0 0%, #330867 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.f-1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../assets/2019-volkswagen-arteon-u-s-first-drive.jpg") center/cover
+      no-repeat;
+}
+.f-2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../assets/2020vwtiguanogi.jpg") center/cover
+      no-repeat;
+}
+.f-3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../assets/Volkswagen\ Golf\ GTI.jpg") center/cover
+      no-repeat;
+}
+.img-1 {
+  background: url("../assets/pexels-oskar-hoke-7559337.jpg") center/cover
+    no-repeat;
+}
+.img-2 {
+  background: url("../assets/volkswagen_logo.jpg") left/cover no-repeat;
+}
+.img-3 {
+  background: url("../assets/pexels-mariana-plozner-2169096.jpg") center/cover
+    no-repeat;
+}
+.features {
+  text-transform: capitalize;
+  background: linear-gradient(
+    90deg,
+    rgba(14, 36, 0, 1) 0%,
+    rgba(107, 121, 9, 1) 35%,
+    rgba(0, 104, 255, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/* .features-bg {
+  background: linear-gradient(
+    90deg,
+    rgba(247, 249, 247, 0.9220063025210083) 0%,
+    rgba(173, 208, 255, 1) 100%
+  );
+} */
